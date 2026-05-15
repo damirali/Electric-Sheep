@@ -3,7 +3,11 @@
 **Heriot-Watt University | Aktobe**
 
 ---
+[◉°] **Instagram:** [@electricsheep_club](https://www.instagram.com/electricsheep_club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  
+➤ **Telegram:** [Announcements](https://t.me/electricsheepclub)  
+✉ **Leader's email:** kutmanov@protonmail.com
 
+---
 ## What we do
 
 We meet weekly to learn robotics from scratch. No experience needed.
@@ -49,10 +53,6 @@ Each week has:
 ## How to join
 
 **Just show up** to a session, or DM us your **full name, phone number, and email**:
-
-[◉°] **Instagram:** [@electricsheep_club](https://www.instagram.com/electricsheep_club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  
-➤ **Telegram:** [Announcements](https://t.me/electricsheepclub)  
-✉ **Leader's email:** kutmanov@protonmail.com
 
 **No fees. No prerequisites. Public to everyone**
 
