@@ -12,7 +12,7 @@
 
 We meet weekly to learn robotics from scratch. No experience needed.
 
-Right now we're learning Arduino, sensors, and how to make things move on their own.
+Right now we're finishing our Arduino course :)
 
 ---
 
@@ -44,7 +44,7 @@ curriculum/
 ```
 
 Each week has:
-- What we learned (README)
+- What we learned 
 - Code with explanations
 - Circuit diagrams
 
