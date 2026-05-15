@@ -91,7 +91,7 @@ The library only needs to be installed once per machine.
 
 ### Wiring
 
-![Fritzing diagram — Environmental monitor](assets/wiring.jpg)
+![photo of wiring](assets/wiring.jpg)
 
 ---
 
